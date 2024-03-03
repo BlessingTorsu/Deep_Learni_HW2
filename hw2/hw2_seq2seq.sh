@@ -1,0 +1,1 @@
+python test_func.py $'/Users/blessingtorsu/Documents/Homework 2/code_files/testing_data/feat' $'testing_data.txt'
